@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,500;1,100;1,600&family=Lato:ital,wght@0,400;0,700;1,300&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600&family=Raleway:ital,wght@0,400;0,700;1,500&display=swap');
+
+$font-1: 'nunito sans', sans-serif;
+
+$color-1: #0d6efd;
+$color-2: #444;
+$color-3: #1e1e1e;
+$color-4: blue;
+$color-5: yellow;
+$color-6: red;
+$color-7: green;
+$white: #EEE;
+$black: #000000;
+
+$min-height: 95vh;
+
+@mixin verticalCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 1rem auto;
+    max-width: 1200px;
+    font-family: $font-1;
+    color: $black;
+}
+
+button {
+    cursor: pointer;
+}
+
+li {
+    list-style-type: none;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,500;1,100;1,600&family=Lato:ital,wght@0,400;0,700;1,300&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600&family=Raleway:ital,wght@0,400;0,700;1,500&display=swap');
+
+.container {
+    background-color: rgb(241, 238, 238);
+}
+
+h1,
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.surligne p {
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: larger;
+}
+
+.serviceCards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.uxdesign img {
+    width: 200px;
+    height: 200px;
+
+}
+
+.devWeb img {
+    width: 200px;
+    height: 200px;
+
+}
+
+.ref img {
+    width: 200px;
+    height: 200px;
+
+}

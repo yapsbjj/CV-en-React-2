@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,500;1,100;1,600&family=Lato:ital,wght@0,400;0,700;1,300&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600&family=Raleway:ital,wght@0,400;0,700;1,500&display=swap');
+
+h1 {
+  display: flex;
+  justify-content: center;
+
+
+}
+
+.homeContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../public/metier-developpeur-web-1.jpg);
+  height: 500px;
+  width: 100%;
+  text-align: center;
+
+}
+
+.presentation {
+  display: block;
+  color: white;
+  font-weight: bold;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textAbout p {
+  display: block;
+
+}
+
+
+
+
+
+
+
+.card1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.image1 {
+  width: 600px;
+  height: 300px;
+  margin: 10px;
+}
+
+.banderolle {
+  width: 1200px;
+  height: 200px;
+
+}
