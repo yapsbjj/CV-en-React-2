@@ -7,7 +7,7 @@ const Navigation = () => {
 
             <nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#">John Doe</a>
+                    <a class="navbar-brand" href="/">John Doe</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -43,7 +43,8 @@ const Navigation = () => {
                     </div>
                 </div>
             </nav>
-        </div>
+
+        </div >
     );
 };
 

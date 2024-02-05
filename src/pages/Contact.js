@@ -33,6 +33,9 @@ const Contact = () => {
                         <Col>
                             <Form.Control placeholder="Sujet" />
                         </Col><br />
+                        <Col>
+                            <Form.Control placeholder="e-mail" />
+                        </Col><br />
                         <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
                             <Form.Label>Votre message</Form.Label>
                             <Form.Control as="textarea" rows={3} />

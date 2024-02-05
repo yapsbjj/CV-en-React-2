@@ -21,6 +21,7 @@ const Articles = () => {
                             This is a wider card with supporting text below as a natural lead-in
                             to additional content. This content is a little bit longer.
                         </Card.Text>
+                        <button type="button" class="btn btn-primary">Lire la suite</button>
                     </Card.Body>
                     <Card.Footer>
                         <small className="text-muted">Last updated 3 mins ago</small>
@@ -34,6 +35,7 @@ const Articles = () => {
                             This card has supporting text below as a natural lead-in to
                             additional content.{' '}
                         </Card.Text>
+                        <button type="button" class="btn btn-primary">Lire la suite</button>
                     </Card.Body>
                     <Card.Footer>
                         <small className="text-muted">Last updated 3 mins ago</small>
@@ -48,6 +50,7 @@ const Articles = () => {
                             to additional content. This card has even longer content than the
                             first to show that equal height action.
                         </Card.Text>
+                        <button type="button" class="btn btn-primary">Lire la suite</button>
                     </Card.Body>
                     <Card.Footer>
                         <small className="text-muted">Last updated 3 mins ago</small>
@@ -63,6 +66,7 @@ const Articles = () => {
                             This is a wider card with supporting text below as a natural lead-in
                             to additional content. This content is a little bit longer.
                         </Card.Text>
+                        <button type="button" class="btn btn-primary">Lire la suite</button>
                     </Card.Body>
                     <Card.Footer>
                         <small className="text-muted">Last updated 3 mins ago</small>
@@ -76,6 +80,7 @@ const Articles = () => {
                             This card has supporting text below as a natural lead-in to
                             additional content.{' '}
                         </Card.Text>
+                        <button type="button" class="btn btn-primary">Lire la suite</button>
                     </Card.Body>
                     <Card.Footer>
                         <small className="text-muted">Last updated 3 mins ago</small>
@@ -90,6 +95,7 @@ const Articles = () => {
                             to additional content. This card has even longer content than the
                             first to show that equal height action.
                         </Card.Text>
+                        <button type="button" class="btn btn-primary">Lire la suite</button>
                     </Card.Body>
                     <Card.Footer>
                         <small className="text-muted">Last updated 3 mins ago</small>
